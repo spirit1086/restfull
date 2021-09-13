@@ -54,6 +54,12 @@ And change api provider:
     ]
 ```
 
+On root project execute commands
+```php
+php artisan migrate
+php artisan db:seed --class="Spirit1086\Restfull\Modules\Auth\Seed\UserSeeder"
+```
+
 Now you're ready to start using the RESTfull with Bearer auth in your application.
 
 # License
