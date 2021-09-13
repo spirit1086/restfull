@@ -1,6 +1,6 @@
 # Laravel RESTfull (auth Bearer)
 
-#Installation
+# Installation
 
 Install the package through (https://getcomposer.org/ "Composer")
 
