@@ -5,7 +5,7 @@
 Install the package through [Composer](https://getcomposer.org)
 
 Run the Composer require command from the Terminal:
-```
+```php
 composer require spirit1086/restfull
 ```
 
