@@ -28,7 +28,7 @@ protected $routeMiddleware = [
 ];
 ```
 # Exceptions
-Open your app/Exceptions/Handler.php and change like  Exceptions/Handler.php on this package
+Open your app/Exceptions/Handler.php and change (render,apiResponse methods) like  Exceptions/Handler.php on this package
 # Authentication provider
 Open your config/auth.php and put this code:
 ```
