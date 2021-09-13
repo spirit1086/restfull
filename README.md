@@ -54,6 +54,7 @@ And change api provider:
     ]
 ```
 
+# Artisan commands
 On root project execute commands
 ```php
 php artisan migrate
