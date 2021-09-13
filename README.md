@@ -19,7 +19,7 @@ Open your app/Http/Kernel.php add this middleware
 protected $middlewareGroups = [
  'api' => [
      ...
-     \Spirit1086\Restfull\Middleware\JsonMiddleware
+     \Spirit1086\Restfull\Middleware\JsonMiddleware::class
     ],
  ]       
 protected $routeMiddleware = [
