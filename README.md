@@ -1,5 +1,5 @@
 # Laravel RESTfull (auth Bearer)
-
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
 # Installation
 
 Install the package through [Composer](https://getcomposer.org)
@@ -10,12 +10,12 @@ composer require spirit1086/restfull
 ```
 
 Open your config/app.php and add a new line to the providers array.
-```
+```php
 \Spirit1086\Restfull\Modules\ModulesServiceProvider::class
 ```
 
 Open your app/Http/Kernel.php add this middleware
-```
+```php
 protected $middlewareGroups = [
  'api' => [
      ...
@@ -31,8 +31,7 @@ protected $routeMiddleware = [
 Open your app/Exceptions/Handler.php and change (**render,apiResponse** methods) like  Exceptions/Handler.php on this package
 # Authentication provider
 Open your config/auth.php and put this code:
-```
-
+```php
 'providers' => [
         'api_users' => [
             'driver' => 'eloquent',
@@ -42,7 +41,7 @@ Open your config/auth.php and put this code:
 ```
 
 And change api provider:
-```
+```php
 'guards' => [
         'api' => [
             'driver' => 'token',
