@@ -1,5 +1,5 @@
 # Laravel RESTfull (auth Bearer)
-[![Github All Releases](https://packagist.org/packages/spirit1086/restfull)]()
+[![Total Downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
 # Installation
 
 Install the package through [Composer](https://getcomposer.org)
