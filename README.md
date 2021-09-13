@@ -1,5 +1,5 @@
 # Laravel RESTfull (auth Bearer)
-[![Latest Version on Packagist](https://img.shields.io/github/v/release/spirit1086/restfull.svg?style=flat)](https://packagist.org/packages/spirit1086/restfull)
+[![Latest Version on Github](https://img.shields.io/github/v/release/spirit1086/restfull.svg?style=flat)](https://packagist.org/packages/spirit1086/restfull)
 [![Total Downloads](https://img.shields.io/packagist/dt/spirit1086/restfull.svg?style=flat-square)](https://packagist.org/packages/spirit1086/restfull)
 # Installation
 
