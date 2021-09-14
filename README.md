@@ -1,8 +1,7 @@
 # Laravel RESTfull (auth Bearer)
-[![Latest Version on Github](https://img.shields.io/github/v/release/spirit1086/restfull.svg?style=flat)](https://packagist.org/packages/spirit1086/restfull)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/spirit1086/restfull.svg?style=flat)](https://img.shields.io/packagist/v/spirit1086/restfull.svg)
 ![](https://github.com/spirit1086/restfull/workflows/PHP%20Composer/badge.svg?branch=main)
 [![Total Downloads](https://img.shields.io/packagist/dt/spirit1086/restfull.svg?style=flat)](https://packagist.org/packages/spirit1086/restfull)
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/spirit1086/restfull.svg?style=flat)](https://img.shields.io/packagist/v/spirit1086/restfull.svg)
 # Installation
 
 Install the package through [Composer](https://getcomposer.org)
